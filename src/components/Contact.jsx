@@ -30,7 +30,7 @@ export default function Contact() {
                   Satyaranayana Puram,<br />
                   Vijayawada, Andhra Pradesh – 520011
                 </p>
-                <a href="https://share.google/Sm0p2rTKVsjDkgcuC"
+                <a href="https://maps.app.goo.gl/iF2tkcSajq9wD2u67?g_st=ac"
                   target="_blank" rel="noopener noreferrer"
                   className="inline-flex items-center gap-1 text-[#F7A8C4] text-sm font-semibold mt-3 hover:underline">
                   Open in Google Maps →
@@ -88,7 +88,7 @@ export default function Contact() {
           <div className="rounded-3xl overflow-hidden shadow-2xl h-[500px]">
             <iframe
               title="Dr. Rabiya Basri Clinic Location"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3825.123!2d80.643!3d16.505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sDr.+Rabiya+Basri+Vijayawada!5e0!3m2!1sen!2sin!4v1"
+              src="https://maps.google.com/maps?q=Dr.%20Rabiya%20Basri-%20Gynecologist%20%26%20Obstetriciian%20and%20fertility%20specialist%20In%20Vijayawada&t=&z=15&ie=UTF8&iwloc=&output=embed"
               width="100%"
               height="100%"
               style={{ border: 0 }}
