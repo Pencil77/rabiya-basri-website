@@ -30,7 +30,7 @@ export default function Contact() {
                   Satyaranayana Puram,<br />
                   Vijayawada, Andhra Pradesh – 520011
                 </p>
-                <a href="https://maps.google.com/?q=Dr.+Rabiya+Basri+Vijayawada"
+                <a href="https://share.google/Sm0p2rTKVsjDkgcuC"
                   target="_blank" rel="noopener noreferrer"
                   className="inline-flex items-center gap-1 text-[#F7A8C4] text-sm font-semibold mt-3 hover:underline">
                   Open in Google Maps →
